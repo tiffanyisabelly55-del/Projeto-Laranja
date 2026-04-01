@@ -1,5 +1,5 @@
 # Projeto-Laranja
-A saúde mental tem ganhado cada vez mais destaque na sociedade contemporânea, especialmente diante dos desafios impostos pelo ritmo acelerado da vida moderna, pelas redes sociais e pelas pressões sociais e profissionais. Reflita sobre a importância do cuidado com a saúde mental, abordando os principais fatores que podem afetá-la, como estresse, ansiedade e isolamento. Além disso, discuta o papel da sociedade, da família e das instituições na promoção do bem-estar psicológico, propondo possíveis soluções para melhorar a qualidade de vida das pessoas."
+A saúde mental tem ganhado cada vez mais destaque na sociedade contemporânea, especialmente diante dos desafios impostos pelo ritmo acelerado da vida moderna, pelas redes sociais e pelas pressões sociais e profissionais. Reflita sobre a importância do cuidado com a saúde mental, abordando os principais fatores que podem afetá-la, como estresse, ansiedade e isolamento. Além disso, discuta o papel da sociedade, da família e das instituições na promoção do bem-estar psicológico, propondo possíveis soluções para melhorar a qualidade de vida das pessoas.
         ❓ Hipóteses do Projeto
 Hipótese 1
 Se os estudantes participarem de atividades educativas sobre saúde mental no Minecraft Education, então eles apresentarão maior compreensão sobre emoções e bem‑estar emocional.
