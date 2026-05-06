@@ -24,4 +24,42 @@ Tornar o aprendizado mais envolvente e significativo
    Ferramentas Utilizadas
 Minecraft Education Edition
 Pesquisa sobre saúde mental
-Trabalho em equipe e criatividade
+Trabalho em equipe e criatividade # 🧠 MenteLeve – App de Saúde Mental no Minecraft Education
+
+Projeto educacional desenvolvido no **Minecraft Education** utilizando **MakeCode**, com o objetivo de promover o **bem-estar emocional de estudantes**.
+
+## 🎯 Objetivo
+Criar uma forma interativa e acessível de registrar emoções, incentivar o autocuidado e facilitar conversas sobre saúde mental no ambiente escolar.
+
+## 🧩 Funcionalidades
+- Registro de humor diário
+- Exercícios de respiração
+- Diário emocional
+- Botão de ajuda
+- Dashboard visual com blocos coloridos
+
+## 🟩 Interpretação das cores
+- Verde: bem-estar positivo  
+- Amarelo: atenção  
+- Vermelho: alerta emocional  
+
+## 🎮 Tecnologias usadas
+- Minecraft Education
+- MakeCode (programação em blocos)
+- JavaScript (versão textual)
+
+## 👥 Público-alvo
+- Estudantes
+- Adolescentes
+- Pessoas que buscam apoio emocional
+
+## 🏫 Contexto educacional
+Projeto indicado para:
+- Trabalhos escolares
+- Feira de ciências
+- Aulas de tecnologia
+- Projetos interdisciplinares
+
+## ❤️ Mensagem final
+Cuidar da mente é tão importante quanto cuidar do corpo.
+
